@@ -1,0 +1,12 @@
+{
+  "difference": 0.17526581701512958,
+  "within_mean": 0.2674274869534071,
+  "between_mean": 0.09216166993827754,
+  "within_pairs": 368,
+  "between_pairs": 1648,
+  "permutations": 999,
+  "p_one_sided": 0.001,
+  "null_mean": 0.0006785252332419083,
+  "null_q025": -0.014003293214722075,
+  "null_q975": 0.019100918850558007
+}

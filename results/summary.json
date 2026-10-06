@@ -1,0 +1,42 @@
+{
+  "validation": {
+    "manifest_records": 101,
+    "unavailable_sources": 4,
+    "xml_parsed": 97,
+    "eligible_records": 65,
+    "excluded_records": 32,
+    "exact_unique_records": 64,
+    "collapsed_records": 1,
+    "topic_count": 43,
+    "tune_count": 6,
+    "network_edges": 106,
+    "vocabulary_size": 2671,
+    "unmatched_keyword_records": 0,
+    "missing_date_records": 0,
+    "missing_source_reference_records": 83,
+    "token_min": 325,
+    "token_median": 815.5,
+    "token_max": 2001,
+    "edge_weight_sum": 64.0,
+    "tune_membership_sum": 64
+  },
+  "permutation": {
+    "difference": 0.17526581701512958,
+    "within_mean": 0.2674274869534071,
+    "between_mean": 0.09216166993827754,
+    "within_pairs": 368,
+    "between_pairs": 1648,
+    "permutations": 999,
+    "p_one_sided": 0.001,
+    "null_mean": 0.0006785252332419083,
+    "null_q025": -0.014003293214722075,
+    "null_q975": 0.019100918850558007
+  },
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  }
+}

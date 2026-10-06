@@ -1,0 +1,22 @@
+{
+  "seed": 42,
+  "pages_per_tune": 2,
+  "records_per_tune": 20,
+  "delay_seconds": 0.8,
+  "permutations": 999,
+  "bootstrap_repeats": 500,
+  "tunes": {
+    "32": "Greensleeves",
+    "42": "Fortune my Foe",
+    "67": "Chevy Chase",
+    "35": "Packington's Pound",
+    "18": "Come Live with Me and Be My Love",
+    "168": "Children in the Wood, The; Now Ponder Well"
+  },
+  "unavailable_ids": [
+    "30141",
+    "37935",
+    "37970",
+    "37971"
+  ]
+}

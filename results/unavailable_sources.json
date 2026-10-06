@@ -1,0 +1,26 @@
+[
+  {
+    "ebba_id": "30141",
+    "reason": "HTTP 200 body is literal Error, not TEI XML",
+    "url": "https://ebba.english.ucsb.edu/ballad/30141/ebba-xml-30141",
+    "sha256": "54a0e8c17ebb21a11f8a25b8042786ef7efe52441e6cc87e92c67e0c4c0c6e78"
+  },
+  {
+    "ebba_id": "37935",
+    "reason": "HTTP 200 body is literal Error, not TEI XML",
+    "url": "https://ebba.english.ucsb.edu/ballad/37935/ebba-xml-37935",
+    "sha256": "54a0e8c17ebb21a11f8a25b8042786ef7efe52441e6cc87e92c67e0c4c0c6e78"
+  },
+  {
+    "ebba_id": "37970",
+    "reason": "HTTP 200 body is literal Error, not TEI XML",
+    "url": "https://ebba.english.ucsb.edu/ballad/37970/ebba-xml-37970",
+    "sha256": "54a0e8c17ebb21a11f8a25b8042786ef7efe52441e6cc87e92c67e0c4c0c6e78"
+  },
+  {
+    "ebba_id": "37971",
+    "reason": "HTTP 200 body is literal Error, not TEI XML",
+    "url": "https://ebba.english.ucsb.edu/ballad/37971/ebba-xml-37971",
+    "sha256": "54a0e8c17ebb21a11f8a25b8042786ef7efe52441e6cc87e92c67e0c4c0c6e78"
+  }
+]

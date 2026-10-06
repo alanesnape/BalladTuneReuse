@@ -1,0 +1,107 @@
+﻿tune_id,tune,topic_key,topic,weight
+32,Greensleeves,advice,advice,0.3333333333333333
+32,Greensleeves,afflictionhealth,affliction/health,0.3333333333333333
+32,Greensleeves,alcohol,alcohol,0.5
+32,Greensleeves,biblebiblicalfigures,Bible/ biblical figures,0.3333333333333333
+32,Greensleeves,class,class,0.8333333333333333
+32,Greensleeves,clothingappearance,clothing/ appearance,0.25
+32,Greensleeves,countrynation,country/nation,1.9166666666666665
+32,Greensleeves,crime,crime,0.25
+32,Greensleeves,economicscommerce,economics / commerce,1.0833333333333333
+32,Greensleeves,law,law,0.3333333333333333
+32,Greensleeves,militarywar,military/war,0.3333333333333333
+32,Greensleeves,mythologyclassical,mythology/ Classical,0.3333333333333333
+32,Greensleeves,news,news,0.25
+32,Greensleeves,nobilitycourt,nobility/court,0.5
+32,Greensleeves,politicsgovernment,politics/government,0.25
+32,Greensleeves,religiousfigures,religious figures,0.3333333333333333
+32,Greensleeves,royalty,royalty,1.5833333333333333
+32,Greensleeves,trickerydeceit,trickery/ deceit,0.25
+32,Greensleeves,vice,vice,1.2499999999999998
+32,Greensleeves,violence,violence,0.5
+32,Greensleeves,vulgarhumor,vulgar humor,0.25
+42,Fortune my Foe,advice,advice,2.2333333333333334
+42,Fortune my Foe,afflictionhealth,affliction/health,0.5
+42,Fortune my Foe,biblebiblicalfigures,Bible/ biblical figures,0.25
+42,Fortune my Foe,death,death,2.9333333333333336
+42,Fortune my Foe,economicscommerce,economics / commerce,0.45
+42,Fortune my Foe,historicalfiguresevents,historical figures & events,0.2
+42,Fortune my Foe,london,London,0.2
+42,Fortune my Foe,love,love,0.5
+42,Fortune my Foe,news,news,0.2
+42,Fortune my Foe,punishment,punishment,0.2
+42,Fortune my Foe,religiousconcepts,religious concepts,2.0999999999999996
+42,Fortune my Foe,religiousfigures,religious figures,0.45
+42,Fortune my Foe,religiousgroups,religious groups,0.3333333333333333
+42,Fortune my Foe,trickerydeceit,trickery/ deceit,0.25
+42,Fortune my Foe,vice,vice,1.1
+42,Fortune my Foe,violence,violence,0.2
+42,Fortune my Foe,virtue,virtue,1.9
+67,Chevy Chase,animalsnature,animals/ nature,1.0095238095238095
+67,Chevy Chase,clothingappearance,clothing/ appearance,0.42857142857142855
+67,Chevy Chase,countrynation,country/nation,1.1833333333333333
+67,Chevy Chase,death,death,0.4
+67,Chevy Chase,entertainments,entertainments,1.2
+67,Chevy Chase,folklore,folklore,0.14285714285714285
+67,Chevy Chase,gender,gender,0.5952380952380952
+67,Chevy Chase,historicalfiguresevents,historical figures & events,0.2
+67,Chevy Chase,infidelity,infidelity,0.5952380952380952
+67,Chevy Chase,love,love,0.34285714285714286
+67,Chevy Chase,maritime,maritime,0.16666666666666666
+67,Chevy Chase,marriage,marriage,0.2
+67,Chevy Chase,militarywar,military/war,1.6119047619047617
+67,Chevy Chase,monstrosity,monstrosity,0.14285714285714285
+67,Chevy Chase,nobilitycourt,nobility/court,1.3166666666666667
+67,Chevy Chase,politicsgovernment,politics/government,0.3333333333333333
+67,Chevy Chase,punishment,punishment,0.5952380952380952
+67,Chevy Chase,religiousfigures,religious figures,0.34285714285714286
+67,Chevy Chase,religiousgroups,religious groups,0.47619047619047616
+67,Chevy Chase,royalty,royalty,1.2714285714285711
+67,Chevy Chase,sexsexuality,sex/sexuality,0.5952380952380952
+67,Chevy Chase,violence,violence,0.65
+67,Chevy Chase,virtue,virtue,0.2
+35,Packington's Pound,countrynation,country/nation,0.25
+35,Packington's Pound,crime,crime,0.25
+35,Packington's Pound,militarywar,military/war,0.25
+35,Packington's Pound,nobilitycourt,nobility/court,0.25
+35,Packington's Pound,politicsgovernment,politics/government,2.75
+35,Packington's Pound,punishment,punishment,0.25
+35,Packington's Pound,religiousgroups,religious groups,3.0
+35,Packington's Pound,trickerydeceit,trickery/ deceit,0.6666666666666666
+35,Packington's Pound,vice,vice,0.3333333333333333
+18,Come Live with Me and Be My Love,advice,advice,1.3
+18,Come Live with Me and Be My Love,afflictionhealth,affliction/health,1.1409090909090909
+18,Come Live with Me and Be My Love,class,class,0.2
+18,Come Live with Me and Be My Love,clothingappearance,clothing/ appearance,0.25
+18,Come Live with Me and Be My Love,countrynation,country/nation,0.1111111111111111
+18,Come Live with Me and Be My Love,crime,crime,0.452020202020202
+18,Come Live with Me and Be My Love,death,death,1.252020202020202
+18,Come Live with Me and Be My Love,economicscommerce,economics / commerce,0.1111111111111111
+18,Come Live with Me and Be My Love,historicalfiguresevents,historical figures & events,0.2
+18,Come Live with Me and Be My Love,infidelity,infidelity,1.540909090909091
+18,Come Live with Me and Be My Love,laborcraft,labor/ craft,0.2
+18,Come Live with Me and Be My Love,law,law,0.3409090909090909
+18,Come Live with Me and Be My Love,love,love,1.0
+18,Come Live with Me and Be My Love,maritime,maritime,0.1111111111111111
+18,Come Live with Me and Be My Love,marriage,marriage,0.740909090909091
+18,Come Live with Me and Be My Love,militarywar,military/war,0.1111111111111111
+18,Come Live with Me and Be My Love,nobilitycourt,nobility/court,0.5409090909090909
+18,Come Live with Me and Be My Love,politicsgovernment,politics/government,0.3111111111111111
+18,Come Live with Me and Be My Love,punishment,punishment,0.652020202020202
+18,Come Live with Me and Be My Love,religiousconcepts,religious concepts,0.5
+18,Come Live with Me and Be My Love,royalty,royalty,0.6520202020202019
+18,Come Live with Me and Be My Love,sexsexuality,sex/sexuality,0.5409090909090909
+18,Come Live with Me and Be My Love,travel,travel,0.5409090909090909
+18,Come Live with Me and Be My Love,vice,vice,0.7
+18,Come Live with Me and Be My Love,virtue,virtue,0.5
+168,"Children in the Wood, The; Now Ponder Well",afflictionhealth,affliction/health,0.125
+168,"Children in the Wood, The; Now Ponder Well",children,children,0.125
+168,"Children in the Wood, The; Now Ponder Well",crime,crime,0.2
+168,"Children in the Wood, The; Now Ponder Well",death,death,0.325
+168,"Children in the Wood, The; Now Ponder Well",economicscommerce,economics / commerce,0.2
+168,"Children in the Wood, The; Now Ponder Well",family,family,0.125
+168,"Children in the Wood, The; Now Ponder Well",familyprocreation,family/procreation,0.2
+168,"Children in the Wood, The; Now Ponder Well",punishment,punishment,0.125
+168,"Children in the Wood, The; Now Ponder Well",religiousconcepts,religious concepts,0.125
+168,"Children in the Wood, The; Now Ponder Well",trickerydeceit,trickery/ deceit,0.125
+168,"Children in the Wood, The; Now Ponder Well",violence,violence,0.325
